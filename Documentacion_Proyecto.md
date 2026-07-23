@@ -48,12 +48,3 @@ Se han desarrollado e integrado componentes funcionales locales para modularizar
     </div>
   );
 ```
-
-## 5. Instrucciones para GitHub (Requerimiento E)
-Para asegurar que tu proyecto quede disponible en GitHub, sigue estos pasos en tu terminal (dentro de la carpeta `/home/igna/pyr13`):
-
-1. `git add .`
-2. `git commit -m "Completada Evaluación Sumativa III: Todo App"`
-3. `git push origin main`
-
-Link del repositorio: `https://github.com/Iasg24/ListaTareas`
