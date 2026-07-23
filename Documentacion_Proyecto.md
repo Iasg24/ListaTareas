@@ -33,7 +33,7 @@ Se han desarrollado e integrado componentes funcionales locales para modularizar
 ## 4. Capturas de Pantalla (Requerimiento D)
 
 ### Captura de la Aplicación Funcionando
-> *[Nota: Por favor, toma una captura de tu aplicación corriendo en el navegador (http://localhost:5173) y reemplaza este texto por la imagen (ej: `![App Funcionando](./captura1.png)`)]*
+![Aplicación Funcionando](./localHost.png)
 
 ### Captura de la Estructura de Componentes en App.jsx
 ```javascript
