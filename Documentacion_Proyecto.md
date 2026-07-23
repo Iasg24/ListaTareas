@@ -36,6 +36,7 @@ Se han desarrollado e integrado componentes funcionales locales para modularizar
 ![Aplicación Funcionando](./localHost.png)
 
 ### Captura de la Estructura de Componentes en App.jsx
+![Estructura App.jsx](./capturAppjsx.png)
 ```javascript
 // Principal bloque de código en App.jsx
   return (
